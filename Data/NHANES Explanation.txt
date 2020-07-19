@@ -1,0 +1,5 @@
+The data is taken from:
+https://wwwn.cdc.gov/nchs/nhanes/Search/DataPage.aspx?Component=Examination&CycleBeginYear=2017
+
+and the explanation is written here:
+https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/BMX_J.htm
