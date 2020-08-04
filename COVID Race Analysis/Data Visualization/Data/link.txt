@@ -1,0 +1,8 @@
+﻿Race-COVID Data taken from:
+https://covidtracking.com/race
+
+per100,000 Data taken from:
+https://www.apmresearchlab.org/covid/deaths-by-race
+
+race-census taken from:
+https://www.census.gov/quickfacts/fact/table/US/PST045219
