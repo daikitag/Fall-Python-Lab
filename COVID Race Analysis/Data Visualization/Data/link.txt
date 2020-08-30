@@ -6,3 +6,10 @@ https://www.apmresearchlab.org/covid/deaths-by-race
 
 race-census taken from:
 https://www.census.gov/quickfacts/fact/table/US/PST045219
+
+obesity taken from:
+diabetes taken from:
+https://www.brookings.edu/blog/up-front/2020/08/07/black-and-hispanic-americans-at-higher-risk-of-hypertension-diabetes-obesity-time-to-fix-our-broken-food-system/
+
+"NHANES" data taken from
+https://www.rdocumentation.org/packages/NHANES/versions/2.1.0/topics/NHANES
